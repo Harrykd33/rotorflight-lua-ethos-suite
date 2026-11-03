@@ -372,7 +372,7 @@ local function buildBoxes(W, H)
             rs_fuelbgcolor = panelBgColor,
             rs_fuelfillbgcolor = colorMode.fillbgcolor,
             rs_fuelaccentcolor = colorMode.accentcolor or colorMode.rssifillbgcolor,
-            rs_fuelgaugepaddingtop = -16,
+            rs_fuelgaugepaddingtop = -26,
             rs_fuelframethickness = 4,
             rs_fuelfont = "FONT_XXL",
             rs_fuelvaluepaddingleft = 13,

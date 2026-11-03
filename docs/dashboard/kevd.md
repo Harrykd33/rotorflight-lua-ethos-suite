@@ -48,6 +48,7 @@ The governor bottom aligns with the six gauges, and the battery extends down
 to it. The six gauges move as one group, with balanced page-side margins and
 the same gap beside the battery stack. Postflight also has a larger FLIGHT TIME
 title and a small rounded battery cap; timer digits retain their original size.
+The postflight battery cap sits four pixels below the FLIGHT TIME text.
 Its voltage, cell voltage/count, and consumed-mAh readings share the largest
 adaptive font that fits all three rows, with panel-relative row spacing for
 full-screen and windowed views.
